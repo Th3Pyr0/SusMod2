@@ -1,0 +1,4 @@
+displayName = Pyro's Sus Mod 2
+author = The Pyro#1984
+version = 0.3
+homepage = https://hazardfall.com/
