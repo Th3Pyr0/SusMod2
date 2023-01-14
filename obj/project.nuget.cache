@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "aUnGa7fL7h+FB5nASDNzQdqYz9rE9hwvQYBe9ghM3nsNLybJ6ycFRMTh5e+zGAOO8EZwsX/lFV6mhU9tEDZ9vg==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\doozi\\OneDrive\\Pictures\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\OldShit\\OldShit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\doozi\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512",
+    "C:\\Users\\doozi\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.12\\microsoft.netcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\doozi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.12\\microsoft.windowsdesktop.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\doozi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.12\\microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
